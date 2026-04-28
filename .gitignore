@@ -1,0 +1,17 @@
+# Arduino IDE
+*.bin
+*.elf
+*.hex
+*.dfu
+*.o
+*.d
+*.a
+*.so
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Project Specific Security
+config.h
+arduino_secrets.h
